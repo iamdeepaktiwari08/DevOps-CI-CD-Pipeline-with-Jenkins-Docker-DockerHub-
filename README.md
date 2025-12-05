@@ -4,7 +4,7 @@ DevOps CI/CD Pipeline with Jenkins, Docker & DockerHub
 This project demonstrates a complete CI/CD pipeline using Jenkins, Docker, and DockerHub.
 A static website is automatically built into a Docker image and pushed to DockerHub whenever new code is committed.
 
- Project Credit (Fork Information)
+👉 Project Credit (Fork Information)
 
 This repository is forked from my teacher’s original project:
 🔗 gauravubnare/demo-app
